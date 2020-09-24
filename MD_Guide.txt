@@ -1,0 +1,9 @@
+//CSS CHARSETS//
+**Bold** -> <span style='font-weight: bold;'></span>
+__Underline__ -> <span style='text-decoration: underline;'></span>
+--Linethrough-- -> <span style='text-decoration: line-through;></span>
+*.Italic.* -> <span style='font-style: italic;'></span>
+
+
+
+*_Underline and Italics_* -> <span style='text-decoration: underline; font-style: italic;'></span>
