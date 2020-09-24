@@ -1,6 +1,7 @@
 # mikedown_markdown_language
  Ditch HTML Coding for easy markdown language!
 
+## This is a project and is currently in development!
 # Mikedown - Ditch HTML code!
 ### Mikedown is a markdown language designed by Mike. Mikedown is designed for those who are not very good at web development, and is designed for html documents.
 
